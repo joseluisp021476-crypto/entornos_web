@@ -1,0 +1,47 @@
+ h2{
+            text-align: center;
+            color: red;
+        }
+        .tabla1{
+            margin: 0px auto;
+            width: 19.5%;
+            height: 250px;
+            font-size: 1.2em;
+        }
+           .tabla2{
+            margin: 20px auto;
+            width: 15%;            
+            font-size: 1em;
+        }
+        .tabla3{
+            margin: 20px auto;
+            width: 25%;            
+            font-size: 1em;
+        }
+         .tabla4{
+            margin: 20px auto;
+            width: 48%;            
+            font-size: 1.3em;
+            border-collapse: collapse;
+        }
+        .c{
+            text-align: center;       
+        }
+        .negrita{
+            font-weight: bolder;
+        }
+        .derecha{
+            text-align: right;
+        }
+        .img{
+            width: 190px;
+        }
+          .img1{
+            width: 300px;
+        }
+
+        .a{
+            text-align: center;
+            border-bottom: 1px hidden;
+            font-size: 2.8em;
+        }
